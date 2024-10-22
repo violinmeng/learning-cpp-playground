@@ -2,9 +2,9 @@
 #include <exception>
 #include <iostream>
 
-#include "metaprogramming.hpp"
 #include "const.hpp"
 #include "copyinitializer.hpp"
+#include "metaprogramming.hpp"
 
 using namespace std;
 int main()

@@ -1,3 +1,3 @@
 
 format:
-	find ./ -iname '*.h' -o -iname '*.cpp' | xargs clang-format -i
+	@find . -iname '*.hpp' -o -iname '*.cpp' | xargs clang-format -i
